@@ -8,4 +8,4 @@ linkedlist.o : linkedlist.c
 	gcc -c -o linkedlist.o linkedlist.c
 
 clean :
- rm *.o test
+	rm *.o test
